@@ -1,0 +1,4 @@
+Kotlin Practice Schedule
+
+ツール：Kotlinプログラミング
+成果物：アンドロイドアプリチュートリアル、Djangoと連携したサーバー処理をするアプリケーション

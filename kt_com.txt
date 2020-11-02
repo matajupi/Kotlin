@@ -1,0 +1,11 @@
+〇Kotlinのターミナルにおいてのコンパイル方法
+
+$ kotlinc example.kt -include-runtime -d example.jar
+$ java -jar example.jar
+
+〇参照ファイルがあるとき（ファイル指定のところに参照ファイルを連ねていく）
+$ kotlinc example.kt class1.kt -include-runtime -d example.jar
+$ java -jar example.jar
+
+〇KotlinのターミナルにおいてのREPL実行方法
+$ Kotlinc-jvm
